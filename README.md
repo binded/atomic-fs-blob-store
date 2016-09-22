@@ -8,7 +8,7 @@ Forked from [fs-blob-store](https://github.com/maxogden/fs-blob-store)
 npm install atomic-fs-blob-store
 ```
 
-[![build status](http://img.shields.io/travis/blockai/atomic-fs-blob-store.svg?style=flat)](http://travis-ci.org/atomic/atomic-fs-blob-store)
+[![build status](http://img.shields.io/travis/blockai/atomic-fs-blob-store.svg?style=flat)](http://travis-ci.org/blockai/atomic-fs-blob-store)
 
 [![blob-store-compatible](https://raw.githubusercontent.com/maxogden/abstract-blob-store/master/badge.png)](https://github.com/maxogden/abstract-blob-store)
 
